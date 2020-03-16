@@ -1,0 +1,99 @@
+body, html {
+    font-family: Poppins-Regular, sans-serif;
+    background-color: #4a464626;
+}
+
+h1{
+    size: 16px;
+    color: red;
+    text-align: center;
+}
+
+h2{
+    size: 16px;
+    color: red;
+    text-align: center;
+}
+
+h4{
+    font-size: 18px;
+}
+
+h3{
+    
+    size: 16px;
+    color: red;
+    text-align: center;
+}
+
+/*---------------------------------------------*/
+input {
+
+    border: 1px;
+    border-radius: 5px;
+}
+
+textarea {
+  outline: none;
+  border: none;
+}
+
+textarea:focus, input:focus {
+  border-color: transparent !important;
+}
+
+button {
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+
+#options{
+    text-align: center;
+
+}
+
+#container{
+    z-index: 500000;
+}
+
+#values{
+    text-align: center;
+    border: 2px solid #827c7c;
+    border-radius: 10px;
+    background-color: #827c7c8f;
+}
+#tableForm{
+    border: 1px solid #827c7c;
+    border-radius: 11px;
+    background-color: #827c7c8f;
+}
+
+#form{
+    position: absolute;
+    text-align: center;
+}
+
+#instructions{
+    position: relative;
+    width: 80%;
+    height: 40%;
+    text-align: center;
+    margin-bottom: 2%;
+}
+
+table {
+    display: table;
+    border-collapse: separate;
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    border-spacing: 2px;
+    border-color: grey;
+    font-variant: normal;
+    background-color: #fff;
+}
+
