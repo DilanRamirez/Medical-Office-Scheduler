@@ -11,7 +11,7 @@ tentative schedule, which she can edit if necessary, and then give to the clinic
 home visits. The goal of assignment 1 is to learn how PHP works and what its features are.
 
 ## Installation
-Clone or download this repostory and open it using a IDE that supports PHP server, or updload it to your server and open it.
+Clone or download this repostory and open it using a IDE that supports PHP server, or upload it to your server and open it.
 
 ## Author
 Dilan R. Ramirez
